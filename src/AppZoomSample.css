@@ -1,0 +1,13 @@
+#ecg-chart-axis{
+    position: absolute;
+    pointer-events: none;
+    z-index: 1;
+}
+#chart-axis-cntr{
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+#ecg-chart{
+    display: block;
+
+}
