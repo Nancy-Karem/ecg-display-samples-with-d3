@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-And is hosted on [vercel](https://ecg-display-samples-d3.vercel.app/) at https://ecg-display-samples-d3.vercel.app/
+And is hosted on [vercel](https://ecg-display-samples-with-d3.vercel.app/) at https://ecg-display-samples-with-d3.vercel.app/
 
 ## Available Scripts
 
